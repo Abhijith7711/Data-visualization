@@ -14,20 +14,6 @@ This Power BI dashboard provides a comprehensive analysis of customer revenue pe
   - Total Quantity Sold
   - Sum of Profit
 
-## Filters and Navigation
-
-- **Date Range**: Adjustable date filter to analyze performance for specific time periods.
-- **Customer, Channel, Product Filters**: Allows users to drill down into specific customers, channels, or products to gain deeper insights.
-
-## How to Use
-
-1. Open the Power BI file.
-2. Utilize the date and other filters to customize the view according to your needs.
-3. Review the visuals to understand trends, top contributors, and revenue distribution across channels and locations.
-
-## Additional Information
-
-This dashboard was built using Power BI Desktop, leveraging dynamic visuals and filters to make data exploration intuitive and informative.
 
 
 
